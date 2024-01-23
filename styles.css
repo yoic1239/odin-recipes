@@ -1,0 +1,37 @@
+body {
+    font-family: Monaco, Arial, Helvetica, sans-serif;
+    background-color: #CFE4C1;
+    color: #34231b;
+}
+
+h1, h2 {
+    text-decoration: underline dotted;
+    color: #000;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+ul {
+    border: 2px dashed #000;
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+}
+
+li {
+    margin-bottom: 0.5rem;
+}
+
+.recipe-list li {
+    font-size: 1.2rem;
+}
+
+strong {
+    text-decoration: underline dotted;
+}
